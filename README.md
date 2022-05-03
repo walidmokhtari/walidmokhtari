@@ -16,6 +16,7 @@ My name is walid mokhtari I'm 23 years old, currently I'm a student at paris yno
 
 ## Framwork :
 - React
+- Node.js
 - Symfony
 - React Native
 - Flutter
