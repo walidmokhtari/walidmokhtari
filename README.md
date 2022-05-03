@@ -1,9 +1,21 @@
 ### Hi there 👋
 
-**walidmokhtari/walidmokhtari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is walid mokhtari I'm 23 years old, currently I'm a student at paris ynov campus and I have 1 year of experience in web development.
 
-Here are some ideas to get you started:
+## Mastery :
 
-- 🔭 I’m currently working on Paris Ynov Campus
-- 🌱 I’m currently learning Web Developement 
+# Languages :
+- JavaScript
+- JAVA
+- PHP
+- Dart
+- C
+- C#
+- GO
+- Python
 
+# Framwork :
+- React
+- Symfony
+- React Native
+- Flutter
